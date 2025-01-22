@@ -17,11 +17,11 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone <URL>
+   git clone https://github.com/arkadykorsakov/iso-date-sync.git
    ```
 2. Перейдите в папку проекта:
    ```bash
-   cd <папка_проекта>
+   cd iso-date-sync
    ```
 3. Установите зависимости:
    ```bash
